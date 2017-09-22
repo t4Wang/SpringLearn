@@ -1,0 +1,10 @@
+﻿META-INF/
+target/
+.idea/
+*.jpg
+*.png
+*.img
+*.gif
+*.jar
+*.iml
+
